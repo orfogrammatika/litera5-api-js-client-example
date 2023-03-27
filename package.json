@@ -1,0 +1,15 @@
+{
+  "name": "litera5-api-js-client-example-js",
+  "version": "1.0.0",
+  "description": "Пример использования библиотеки litera5-api-js-client для JavaScript",
+  "main": "index.js",
+  "author": "Konstantin V. Borisov",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "example": "node index.js"
+  },
+  "dependencies": {
+    "litera5-api-js-client": "orfogrammatika/litera5-api-js-client"
+  }
+}
